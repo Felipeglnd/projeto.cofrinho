@@ -21,9 +21,3 @@ A implementação utiliza os conceitos de **herança** e **polimorfismo**. A cla
 - **Cofrinho**: Classe que gerencia a coleção de moedas e as operações de adicionar, remover, listar e calcular o valor total.
 - **Moeda**: Classe abstrata que define os atributos e métodos comuns às moedas.
 - **Dolar, Euro, Real**: Classes que herdam de `Moeda` e implementam a conversão de valores para Real.
-
-## Como Executar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/cofrinho-de-moedas.git
